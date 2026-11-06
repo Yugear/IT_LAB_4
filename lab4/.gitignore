@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+passport_*.json
+monitor_log*.csv
